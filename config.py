@@ -1,7 +1,7 @@
 """Set up all the configuration variables"""
 BASE_URL = "https://adcampaigndemo.robonet.me/"
 AUTH_URL = "https://adcampaigndemo.robonet.me/Auth"
-BROWSERSTACK_URL = 'https://bsuser7502156758:g272SmXwnCsHJjHDsAqS@hub-cloud.browserstack.com/wd/hub'
+BROWSERSTACK_URL = 'https://adcompany2:m4cBrmFat8vwbL1nRxu6@hub-cloud.browserstack.com/wd/hub'
 
 AUTH_CREDENTIALS = {
     'administrator': {'email': 'test_admin@local.ad',
